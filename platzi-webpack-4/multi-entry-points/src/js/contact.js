@@ -1,0 +1,1 @@
+console.log("Hello from Webpack 4! Contact Page");
